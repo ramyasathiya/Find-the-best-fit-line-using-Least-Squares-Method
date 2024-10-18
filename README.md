@@ -22,6 +22,8 @@ To implement univariate Linear Regression to fit a straight line using least squ
 Program to implement univariate Linear Regression to fit a straight line using least squares.
 Developed by: Ramya S
 RegisterNumber: 212222040130
+```
+```
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -53,7 +55,8 @@ plt.show()
 ```
 
 ## Output:
-![Screenshot 2024-02-20 161926](https://github.com/sakthipriyadhanusu/Find-the-best-fit-line-using-Least-Squares-Method/assets/119393194/24345613-ff4f-409b-a695-a5c0a4263eb4)
+![image](https://github.com/user-attachments/assets/bf302414-5fda-4571-8530-c365253bb751)
+
 
 
 ## Result:
